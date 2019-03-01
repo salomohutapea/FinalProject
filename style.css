@@ -1,0 +1,5 @@
+.video {
+    height: 720px;
+    overflow: hidden;
+    display: block;
+}
